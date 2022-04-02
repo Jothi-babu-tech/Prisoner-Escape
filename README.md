@@ -17,8 +17,6 @@ Open the 'index.html' file in your browser.
 * WebGL
 
 ## Author
-Atirek Kumar  
-Github handle: https://github.com/atirek-ak/
+Yazhini Babu
+Github handle: https://github.com/jothi-babu-tech/
 
-## Acknowledgment
-Boilerplate used: https://github.com/yp201/Webgl-boilerplate
