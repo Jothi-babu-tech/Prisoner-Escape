@@ -1,5 +1,5 @@
-# Subway Surfers
-A basic implementation of the popular mobile game Subway Surfers
+# Prisoner Escape
+A basic implementation of the popular mobile game  Prisoner Escape
 
 
 ## Getting Started
